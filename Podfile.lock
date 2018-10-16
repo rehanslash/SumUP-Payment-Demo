@@ -1,0 +1,16 @@
+PODS:
+  - SumUpSDK (3.0)
+
+DEPENDENCIES:
+  - SumUpSDK
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - SumUpSDK
+
+SPEC CHECKSUMS:
+  SumUpSDK: ad134a6bb8b77ec68ad747cf0463ecb58752a2b9
+
+PODFILE CHECKSUM: 3bc45cc467cb5f54c0915b941fe4d1db84008f42
+
+COCOAPODS: 1.5.0
